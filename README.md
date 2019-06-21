@@ -16,6 +16,8 @@ Código 1803746
 
 El archivo vagrant crea 2 maquinas virtuales con las cuales a cada una se crea una conexion a un puerto distinto y se instala apache con el archivo script.sh.
 
+Se comparten las carpetas en donde estan la carpeta /www de apache y pongo los archivos html para que se puedan ver desde el localhost de cada uno de los puertos.
+
 # Docker
 
 # HTCondor
