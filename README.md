@@ -20,6 +20,8 @@ Se comparten las carpetas en donde estan la carpeta /www de apache y pongo los a
 
 # Docker
 
+No lo pude terminar, pero si pude crear la imagen como se muestra en el video
+
 # HTCondor
 
 El video mustra como se utiliza el cluster de la Universidad del Valle
