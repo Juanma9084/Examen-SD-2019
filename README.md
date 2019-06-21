@@ -14,6 +14,8 @@ Código 1803746
 
 # Vagrant
 
+El archivo vagrant crea 2 maquinas virtuales con las cuales a cada una se crea una conexion a un puerto distinto y se instala apache con el archivo script.sh.
+
 # Docker
 
 # HTCondor
