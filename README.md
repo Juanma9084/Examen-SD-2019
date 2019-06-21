@@ -19,3 +19,5 @@ El archivo vagrant crea 2 maquinas virtuales con las cuales a cada una se crea u
 # Docker
 
 # HTCondor
+
+El video mustra como se utiliza el cluster de la Universidad del Valle
