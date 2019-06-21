@@ -12,8 +12,8 @@ Código 1803746
 2 - El archivo VBoxManage_create2.bat crea una maquina virtual personalizable.
 
 
-Vagrant
+# Vagrant
 
-Docker
+# Docker
 
-HTCondor
+# HTCondor
